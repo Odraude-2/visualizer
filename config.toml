@@ -1,0 +1,5 @@
+[colors]
+low = [98, 114, 164]    # Azul/Púrpura (Dracula Selection/Comment)
+medium = [139, 233, 253] # Cian (Dracula Cyan)
+high = [255, 121, 198] # Rosa (Dracula Pink)
+peak = [255, 85, 85]   # Rojo (Dracula Red)
